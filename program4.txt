@@ -1,0 +1,10 @@
+CPSC 323 - Compilers
+
+Eric Guzman
+Michael Perez
+
+We both worked togeter on this program.
+
+
+when I ran it on my machine using visual studio 2010 its working well with 
+no errors.
